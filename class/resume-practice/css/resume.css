@@ -192,3 +192,8 @@ a:hover, a:focus, a:active {
   font-size: 10px;
   text-decoration: underline;
 }
+
+.back-to-top:nth-child(4){
+  margin-top:-4%;
+  margin-bottom: 30px;
+}
